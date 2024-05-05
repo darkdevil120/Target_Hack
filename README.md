@@ -1,3 +1,3 @@
-rm -rf Dark_Devil
-pkg update
-pkg upgrade
+rm -rf Dark_Devil <br>
+pkg update <br>
+pkg upgrade <br>
